@@ -15,6 +15,15 @@ h1 {
   font-size: 0.9em;
 }
 
-tr {
-  border: 1px;
+p {
+  line-height: 0.3em;
+}
+
+form {
+  padding: 2px;
+  line-height: 25px;
+}
+
+button {
+  background-color: aqua;
 }
