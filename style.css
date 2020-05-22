@@ -1,9 +1,11 @@
 body {
   font-family: sans-serif;
+  background-color: #ecfbfc;
 }
 
-h1 {
+h1, h3 {
   line-height: normal;
+  color: #235952;
 }
 
 .des {
@@ -26,4 +28,11 @@ form {
 
 button {
   background-color: aqua;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: green;
 }
